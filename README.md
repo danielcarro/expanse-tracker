@@ -1,12 +1,19 @@
-# Getting Started with Create React App
+# Expanse Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Modern and useful financial manager
+
+This project was created with ReactJS with Typescript
+
+[See Project working](https://expanse.dcdev.site)
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+Installation
 
 ### `npm install`
+
+In the project directory, you can run:
 
 ### `npm start`
 
